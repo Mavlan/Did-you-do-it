@@ -1,0 +1,14 @@
+## Interface: 120205
+## Title: Did you do it? | 你做了么？
+## Notes: A WoW AddOn to track daily quests across MoP/Cata/WLK versions
+## Author: Mavlan
+## Version: 1.0.0
+## SavedVariables: DYDI_DB
+## Dependencies: Questie
+
+core/constants.lua
+core/db.lua
+core/questie.lua
+ui/panel.lua
+ui/utils.lua
+main.lua
