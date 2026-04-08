@@ -1,4 +1,4 @@
-## Interface: 120205
+## Interface: 50503
 ## Title: Did you do it? | 你做了么？
 ## Notes: A WoW AddOn to track daily quests across MoP/Cata/WLK versions
 ## Author: Mavlan
